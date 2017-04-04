@@ -19,3 +19,7 @@ Your pkl file is, in fact, a serialized pickle file, which means it has been dum
 
 References:-
 https://github.com/zygmuntz/stardose
+
+Ideas:-
+1. Based on the starred repositories. I  can find similar users like me who we have also star the same repositories that I have done. (Collaborative Filtering)
+2. 
